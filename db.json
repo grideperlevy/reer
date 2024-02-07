@@ -1,0 +1,82 @@
+[
+    {
+        "model": "posts.post",
+        "pk": 1,
+        "fields": {
+            "text": "Programming is the art of creating a machine that will do what it's told, but more importantly, do what we need.",
+            "pub_date": "2023-07-11T12:00:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 2,
+        "fields": {
+            "text": "Machine learning is becoming increasingly popular in the IT industry.",
+            "pub_date": "2023-07-10T10:30:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 3,
+        "fields": {
+            "text": "Developing web applications using Django is an excellent choice for beginner programmers.",
+            "pub_date": "2023-07-09T15:45:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 4,
+        "fields": {
+            "text": "Artificial intelligence is changing the world of IT.",
+            "pub_date": "2023-07-08T08:20:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 5,
+        "fields": {
+            "text": "Python is one of the most popular programming languages in the IT sphere.",
+            "pub_date": "2023-07-07T14:10:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 6,
+        "fields": {
+            "text": "Developing mobile applications requires knowledge of multiple technologies.",
+            "pub_date": "2023-07-06T17:55:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 7,
+        "fields": {
+            "text": "Information security is an important aspect of the IT industry.",
+            "pub_date": "2023-07-05T09:40:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 8,
+        "fields": {
+            "text": "Working in the IT sector can be highly paid and offer promising job opportunities.",
+            "pub_date": "2023-07-04T13:25:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 9,
+        "fields": {
+            "text": "Game development is an exciting sphere that requires creativity and technical skills.",
+            "pub_date": "2023-07-03T11:15:00Z"
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 10,
+        "fields": {
+            "text": "Data analysis helps people make informed decisions in the IT sphere.",
+            "pub_date": "2023-07-02T16:35:00Z"
+        }
+    }
+]
